@@ -1,0 +1,13 @@
+node_modules/
+build/
+dist/
+coverage/
+.env
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+setup/aws-iam-authenticator
+*.exe
+.DS_Store
+Thumbs.db
